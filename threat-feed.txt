@@ -4,3 +4,4 @@ distro.ibiblio.org/rocky/8.10/BaseOS/x86_64/os/
 mirrors.cat.pdx.edu/rocky/8.10/BaseOS/x86_64/os/
 mirror.cogentco.com/pub/linux/rocky/8.10/BaseOS/x86_64/os/
 iad.mirror.rackspace.com/rocky/8.10/BaseOS/x86_64/os/
+https://mirror.web-ster.com/rocky/8.10/BaseOS/x86_64/os/
